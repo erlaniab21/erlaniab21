@@ -62,7 +62,7 @@
 </p>
   </p>
      
-![Snake animation](https://github.com/erlaniab21/erlaniab21/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/erlaniab21/erlaniab21/output/github-contribution-grid-snake-dark.svg)
 
 
 
