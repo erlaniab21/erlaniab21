@@ -1,5 +1,4 @@
 name: generate animation
-
 on:
   # run automatically every 24 hours
   schedule:
@@ -12,9 +11,6 @@ on:
   push:
     branches:
     - main
-    
-  
-
 jobs:
   generate:
     runs-on: ubuntu-latest
