@@ -24,12 +24,15 @@
 
 <div>
   <a href="https://github.com/erlaniab21">
-  <img height="180cm" align="center" src= "https://github-readme-stats.vercel.app/api?username=erlaniab21&show_icons=true&theme=synthwave"/>
+  <img height="180cm" align="center" src= "https://github-readme-stats.vercel.app/api?username=erlaniab21&show_icons=true&theme=gotham"/>
 </a>
 <a href="https://github.com/erlaniab21">
-  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlaniab21&layout=compact&theme=synthwave"/>
+  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlaniab21&layout=compact&theme=gotham"/>
 </a>
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erlaniab21&bg_color=16161d&color=148f76&line=20ac9c&point=1f4c47&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
